@@ -1,0 +1,45 @@
+body{
+    background-image: url(Images/1.jpg);
+}
+div{
+    padding:10px;
+    margin:5px auto;
+    text-align:center;
+    width:300px;
+    height:550px;
+    margin-top:30px;
+    border-radius:10%;
+    background-color: lightgray;
+}
+table{
+    margin:7px auto;
+    padding-top: 50px;
+     }
+tr{
+    height:50px;
+    
+}
+
+input[type] {
+background-color: lightgray;
+border: 0;
+outline: 0;
+border-bottom: 3px solid black;
+}
+.real{
+    width:250px;
+}
+
+input[type]:focus{
+border-color: aqua;
+}
+
+input[type="submit"]{
+background-color: fuchsia; 
+border-radius:10px; 
+padding:4px 10px 9px; 
+font-weight:bolder;
+box-shadow:none; 
+border:0px; 
+cursor: pointer;
+}

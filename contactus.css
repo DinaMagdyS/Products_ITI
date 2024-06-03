@@ -1,0 +1,94 @@
+body{
+    background-image: url(Images/1.jpg);
+    background-repeat: repeat-x;
+    margin: 0;
+    padding: 0;
+    }
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    }
+ul{
+    display:flex;
+    margin: 0;
+    }
+ul li{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    padding:0px 0px 0px 100px ;
+    margin:0;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+    }
+.navbar a{
+    text-decoration: none;
+    }
+.navbutton:hover{
+    color:blueviolet;
+    }
+
+
+
+
+.contactus{
+    font: bold 15px tahoma;
+    color: aliceblue;
+    background-color: rgb(157, 130, 163);
+    margin-left: 410px;
+    margin-top: 130px;
+    margin-right:5px ;
+    padding:0px 2px;
+    text-align: center;
+    }
+    #title{
+        color: black;
+    }
+.contact{
+    display:flex;
+    justify-content: space-evenly;
+    margin:30px 0px 0px 0px;
+    }
+
+
+.call{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(214, 214, 184);
+    border-radius: 10%;
+    font-weight:bolder;
+    width: 150px;
+    height: 120px;
+    text-align: center;
+    }
+
+.inline{
+    margin-right: 5px;
+    width: 15px;
+    height: auto;
+    }
+.gold{
+        color: darkgoldenrod;
+        font-size:15px;
+    }
+    
+
+
+.footer{
+    position:relative;
+    left:0;
+    bottom:0;
+    width: 100%;
+    height:170;
+    border-radius:0;
+    margin:20px 0px 0px 0px;
+    background-color:rgb(230, 96, 163);
+    }
+
+.footer .text{
+    font: bolder 17px times new roman;
+    color:  rgb(12, 82, 85);
+    text-align: center; 
+    padding-top:140px; 
+    }
