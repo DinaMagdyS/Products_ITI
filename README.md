@@ -1,2 +1,21 @@
-# Products_ITI
-Just started learning HTML and CSS as part of my curriculum in the 4-month Intensive Code Camp Scholarship at the Information Technology Institute (ITI) where I am specializing in the software testing track. As I transition from a career in pharmacy to software testing and embark on this journey into web development, I am aware that these are just my initial steps. This project represents my growing understanding and application of these fundamental technologies. While there is still much to learn, I am eager to continue expanding my skills and knowledge. Each new challenge presents an opportunity for growth, and I look forward to diving in this new thrilling world.
+# Mini E-commerce Website
+## Overview
+This project is a simple e-commerce website built using HTML and CSS as part of my curriculum in a 4-month Intensive Code Camp Scholarship. The website includes a homepage, product listing, and a cart section. It is designed to demonstrate fundamental concepts of web design using HTML and CSS.
+
+## Features
+- Responsive design 
+- Navigation bar linking different sections
+- Product listing grid
+- Footer with social media icons
+
+## Technologies Used
+- HTML5
+- CSS3
+- Visual Studio Code
+
+## Screenshots
+
+![SignUp](https://github.com/user-attachments/assets/a968cf64-0d64-4368-b12a-b5e279645543)
+![ProductPage](https://github.com/user-attachments/assets/a4c232a4-17fa-4628-a7f3-143b7ea48b4d)
+![AboutUs](https://github.com/user-attachments/assets/1b7d4430-a072-4bcb-a637-b3fb0cc9a21f)
+
