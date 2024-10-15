@@ -13,6 +13,12 @@ This project is a simple e-commerce website built using HTML and CSS as part of 
 - CSS3
 - Visual Studio Code
 
+## Demo 
+Tasked to recreate this E-commerce Website provided in the video
+
+https://github.com/user-attachments/assets/7483a023-9b89-4ac4-a53b-d12778993a9e
+
+
 ## Screenshots
 
 ![SignUp](https://github.com/user-attachments/assets/a968cf64-0d64-4368-b12a-b5e279645543)
